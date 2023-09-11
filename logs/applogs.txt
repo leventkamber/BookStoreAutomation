@@ -1,0 +1,222 @@
+2023-09-11T16:05:44,510 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,513 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,514 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,514 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,515 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,515 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,516 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,516 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,518 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2023-09-11T16:05:44,524 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2023-09-11T16:05:44,525 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,525 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,525 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,525 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,526 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,526 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,527 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,527 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,528 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,528 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,531 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,531 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,531 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,532 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,532 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,532 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,532 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,532 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,533 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,533 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,533 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,534 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,534 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,534 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,534 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,534 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,535 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,535 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,535 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,535 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,536 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,536 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,536 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,536 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,538 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,540 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2023-09-11T16:05:44,541 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,541 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,541 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:05:44,541 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:05:44,544 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  C:\Users\GTsupport1\IdeaProjects\BookStoreAutomation\testng.xml
+
+2023-09-11T16:05:44,552 [main] INFO  (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2023-09-11T16:05:44,658 [main] INFO  (UserTests.java:27) - UserTests execution started...
+2023-09-11T16:05:47,186 [main] INFO  (UserTests.java:32) - UserTests execution finished...
+2023-09-11T16:05:50,683 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7305a443: 0 ms
+2023-09-11T16:11:38,527 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2023-09-11T16:11:38,533 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2023-09-11T16:11:38,534 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,534 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,534 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,535 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,535 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,535 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,538 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2023-09-11T16:11:38,545 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2023-09-11T16:11:38,546 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,546 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,547 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,547 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,547 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,547 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,548 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,549 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,549 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,549 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,552 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,552 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,552 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,553 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,553 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,553 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,553 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,553 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,554 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,554 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,554 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,554 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,555 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,555 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,555 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,555 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,555 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,556 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,556 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,556 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,557 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,557 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,557 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,557 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,558 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2023-09-11T16:11:38,561 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2023-09-11T16:11:38,562 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,562 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,562 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:11:38,562 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:11:38,565 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  C:\Users\GTsupport1\IdeaProjects\BookStoreAutomation\testng.xml
+
+2023-09-11T16:11:38,575 [main] INFO  (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2023-09-11T16:11:38,699 [main] INFO  (UserTests.java:27) - UserTests execution started...
+2023-09-11T16:11:41,088 [main] INFO  (UserTests.java:32) - UserTests execution finished...
+2023-09-11T16:11:44,468 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter@3f0c2eff: 8 ms
+2023-09-11T16:11:44,468 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@7cddc50f: 0 ms
+2023-09-11T16:11:44,468 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1e60890c: 0 ms
+2023-09-11T16:38:41,453 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  C:\Users\GTsupport1\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+2023-09-11T16:38:41,577 [main] INFO  (UserTests.java:27) - UserTests execution started...
+2023-09-11T16:38:41,586 [main] INFO  (UserTests.java:33) - ******** Creating user ************
+2023-09-11T16:38:42,912 [main] INFO  (UserTests.java:37) - ******** User is created ************
+2023-09-11T16:38:42,915 [main] INFO  (UserTests.java:42) - ******** Creating user with duplicated username and password ************
+2023-09-11T16:38:43,119 [main] INFO  (UserTests.java:46) - ******** User is not being created ************
+2023-09-11T16:38:43,120 [main] INFO  (UserTests.java:52) - ******** Creating user with empty username and password ************
+2023-09-11T16:38:43,270 [main] INFO  (UserTests.java:58) - ******** User is not being created ************
+2023-09-11T16:38:43,271 [main] INFO  (UserTests.java:64) - ******** Creating user with short password ************
+2023-09-11T16:38:43,420 [main] INFO  (UserTests.java:69) - ******** User is not being created ************
+2023-09-11T16:38:43,421 [main] INFO  (UserTests.java:75) - ******** Creating user without at least 1 digit in password ************
+2023-09-11T16:38:43,566 [main] INFO  (UserTests.java:80) - ******** User is not being created ************
+2023-09-11T16:38:43,566 [main] INFO  (UserTests.java:86) - ******** Creating user without containing one non alphanumeric character in password ************
+2023-09-11T16:38:43,714 [main] INFO  (UserTests.java:90) - ******** User is not being created ************
+2023-09-11T16:38:43,715 [main] INFO  (UserTests.java:96) - ******** Creating user without containing one uppercase ('A'-'Z') in password ************
+2023-09-11T16:38:43,860 [main] INFO  (UserTests.java:105) - ******** Creating user without containing one lowercase ('a'-'z') in password ************
+2023-09-11T16:51:41,569 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2023-09-11T16:51:41,575 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2023-09-11T16:51:41,577 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,577 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,577 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,578 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,578 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,578 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,580 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,587 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2023-09-11T16:51:41,587 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,587 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,588 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,588 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,588 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,589 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,590 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,590 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,590 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,591 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,593 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,594 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,594 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,594 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,594 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,595 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,595 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,595 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,595 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,596 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,596 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,597 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,597 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,597 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,597 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,597 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,598 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,598 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,598 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,598 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,599 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,599 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,599 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,599 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,601 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,603 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2023-09-11T16:51:41,604 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,604 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,604 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-09-11T16:51:41,604 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-09-11T16:51:41,607 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  C:\Users\GTsupport1\IdeaProjects\BookStoreAutomation\testng.xml
+
+2023-09-11T16:51:41,615 [main] INFO  (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2023-09-11T16:51:41,730 [main] INFO  (UserTests.java:32) - ******** Creating user ************
+2023-09-11T16:51:43,023 [main] INFO  (UserTests.java:36) - ******** User is created ************
+2023-09-11T16:51:43,025 [main] INFO  (UserTests.java:41) - ******** Creating user with duplicated username and password ************
+2023-09-11T16:51:43,276 [main] INFO  (UserTests.java:45) - ******** User is not being created ************
+2023-09-11T16:51:43,277 [main] INFO  (UserTests.java:51) - ******** Creating user with empty username and password ************
+2023-09-11T16:51:43,425 [main] INFO  (UserTests.java:57) - ******** User is not being created ************
+2023-09-11T16:51:43,426 [main] INFO  (UserTests.java:63) - ******** Creating user with short password ************
+2023-09-11T16:51:43,573 [main] INFO  (UserTests.java:68) - ******** User is not being created ************
+2023-09-11T16:51:43,574 [main] INFO  (UserTests.java:74) - ******** Creating user without at least 1 digit in password ************
+2023-09-11T16:51:43,720 [main] INFO  (UserTests.java:79) - ******** User is not being created ************
+2023-09-11T16:51:43,721 [main] INFO  (UserTests.java:85) - ******** Creating user without containing one non alphanumeric character in password ************
+2023-09-11T16:51:43,867 [main] INFO  (UserTests.java:89) - ******** User is not being created ************
+2023-09-11T16:51:43,868 [main] INFO  (UserTests.java:95) - ******** Creating user without containing one uppercase ('A'-'Z') in password ************
+2023-09-11T16:51:44,010 [main] INFO  (UserTests.java:100) - ******** User is not being created ************
+2023-09-11T16:51:44,011 [main] INFO  (UserTests.java:106) - ******** Creating user without containing one lowercase ('a'-'z') in password ************
+2023-09-11T16:51:44,156 [main] INFO  (UserTests.java:111) - ******** User is not being created ************
+2023-09-11T16:51:45,158 [main] INFO  (BookTests.java:53) - ******** Getting all books ************
+2023-09-11T16:51:45,352 [main] INFO  (BookTests.java:58) - ******** Got all the books ************
+2023-09-11T16:51:45,353 [main] INFO  (BookTests.java:64) - ******** Adding a book ************
+2023-09-11T16:51:45,561 [main] INFO  (BookTests.java:69) - ******** Book is added ************
+2023-09-11T16:51:45,782 [main] INFO  (BookTests.java:80) - ******** Trying to add a non existing book ************
+2023-09-11T16:51:45,979 [main] INFO  (BookTests.java:84) - ******** Book is not being added ************
+2023-09-11T16:51:45,980 [main] INFO  (BookTests.java:90) - ******** Updating first book from preferred collection ************
+2023-09-11T16:51:46,475 [main] INFO  (BookTests.java:98) - ******** Book is being updated ************
+2023-09-11T16:51:46,662 [main] INFO  (BookTests.java:108) - ******** Getting book with static isbn and checking if it has 278 pages ************
+2023-09-11T16:51:46,811 [main] INFO  (BookTests.java:112) - ******** Got the book ************
+2023-09-11T16:51:46,818 [main] INFO  (BookTests.java:115) - ******** Checked that the book has 278 pages ************
+2023-09-11T16:51:46,818 [main] INFO  (BookTests.java:121) - ******** Deleting existing book ************
+2023-09-11T16:51:47,114 [main] INFO  (BookTests.java:125) - ******** Book is deleted ************
+2023-09-11T16:51:47,299 [main] INFO  (BookTests.java:135) - ******** Deleting non existing book ************
+2023-09-11T16:51:47,551 [main] INFO  (BookTests.java:140) - ******** Book is not being deleted ************
+2023-09-11T16:51:47,562 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter@2e2a2b07: 9 ms
+2023-09-11T16:51:47,563 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@52dc71b2: 0 ms
+2023-09-11T16:51:47,563 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e1d2781: 0 ms
